@@ -49,7 +49,7 @@ private:
 	float DoorOpenSpeed = 0.8f;
 
 	UPROPERTY(EditAnywhere)
-	float DoorCloseSpeed = 4.f;
+	float DoorCloseSpeed = 5.f;
 
 	UPROPERTY(EditAnywhere)
 	ATriggerVolume* PressurePlate = nullptr;
